@@ -1,0 +1,8 @@
+{
+  "name": "URL-Shortener-DIO",
+  "version": "1.0.0",
+  "description": "URL shortener project",
+  "main": "src/index.ts",
+  "author": "Jardel Bordignon",
+  "license": "MIT"
+}
