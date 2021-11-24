@@ -1,3 +1,8 @@
-yarn add express cors http-status-codes
+URL Shortener
+---
+*Encurtador de url desevolvido durante o bootcamp DIO/Eduzz*
 
-yarn add typescript @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint ts-node-dev tsconfig-paths @types/express @types/http-status-codes @types/node -D
+- Clonar o projeto -> git clone https://github.com/jardelbordignon/dio-url-shortener-ts-node
+- Instalar as dependências -> yarn
+- Configurar arquivo .env com a URI do seu mongo db conforme o .env.example
+- Rodar o projeto -> yarn dev
